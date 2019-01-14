@@ -7,7 +7,7 @@ layout: default
                             <div class="swiper-wrapper">
                                 <!-- Slide -->
                                 <div class="swiper-slide" data-swiper-autoplay="8000">
-                                    <div class="holder-item holder-item-light" data-vide-bg="/assets/media/video/everpay-intro.mp4" data-vide-options="loop: true, muted: false, position: 0% 0%" style="padding-bottom: 350px;">
+                                    <div class="holder-item holder-item-light" data-vide-bg="{{ "/assets/media/video/everpay-intro.mp4" | prepend: site.baseurl }}" data-vide-options="loop: true, muted: false, position: 0% 0%" style="padding-bottom: 350px;">
                                         <span class="mask mask-base-1--style-2"></span>
                                         <div class="container slice--offset-top d-flex align-items-center">
                                             <div class="col px-0">
@@ -17,7 +17,7 @@ layout: default
                                                             Grow your business with Everpay
                                                         </h2>
                                                         <p class="lead animated mt-4" data-animation-in="fadeInUpBig" data-animation-delay="200">
-                                                            Everpay for Startups is an innovative open payments company, focused on simplifying payments and golabl commerce under one singl;e source.
+                                                            Everpay for Startups is an innovative open payments company, focused on simplifying payments and golabl commerce under one single source.
                                                         </p>
 
                                                         <a href="https://goo.gl/9BbH7R" class="btn btn-styled btn-lg btn-white btn-circle btn-outline mt-5 animated" data-animation-in="fadeInUpBig" data-animation-delay="1000" data-scroll-to="#sct_what_we_do">
@@ -286,7 +286,7 @@ layout: default
                         </div>
                     </section>
 
-                    <section class="slice-xl slice-video d-flex align-items-center" data-vide-bg="/assets/video/everpay-intro.mp4" data-vide-options="loop: true, muted: false, position: 0% 0%">
+                    <section class="slice-xl slice-video d-flex align-items-center" data-vide-bg="{{ "/assets/video/everpay-intro.mp4 | prepend: site.baseurl }}" data-vide-options="loop: true, muted: false, position: 0% 0%">
                         <span class="mask mask-dark--style-1 alpha-7"></span>
                         <div class="container">
                             <div class="col">
@@ -480,7 +480,7 @@ layout: default
                         </div>
                     </section>
 
-
+                        <div class="hidden" style="display:none;">
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
@@ -496,5 +496,7 @@ layout: default
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+                                                                                        </div>
+                                                                                        
+                                                                                        
 </div>
