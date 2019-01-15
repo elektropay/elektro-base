@@ -56,7 +56,7 @@ permalink: /about/
                         </div>
                     </section>                  
                     
-        <section class="ss-slice ss-style-doublediagonal bg-base-1" style="padding-bottom: 18em;">
+   <section class="ss-slice ss-style-doublediagonal bg-base-1" style="padding-bottom: 18em;">
                         <div class="container">
                             <div class="section-title section-title-inverse section-title--style-1 text-center">
                                 <h3 class="section-title-inner heading-1 c-white text-normal">
@@ -65,10 +65,9 @@ permalink: /about/
                                 <span class="section-title-delimiter clearfix d-none"></span>
                             </div>
 
-                            <span class="clearfix"></span>
-                            <span class="space-xs-xl"></span>
-
-                            <div class="">
+  <span class="clearfix"></span>
+  <span class="space-xs-xl"></span>
+<div class="">
                                 <div class="row-wrapper">
                                     <div class="row">
                                         <div class="col-lg-4 col-md-12 col-sm-12 col-12">
@@ -77,9 +76,11 @@ permalink: /about/
                                                     <span class="icon-number c-base-text-1">1</span>
                                                 </div>
                                                 <div class="block-content">
-                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">A whole new payments concept</h3>
+                             <h3 class="heading heading-5 c-base-text-1 strong-600">
+                                                      A whole new payments concept
+                                                  </h3>
                                                     <p class="mt-3 c-white">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
                                                     </p>
                                                 </div>
                                             </div>
@@ -103,16 +104,18 @@ permalink: /about/
                                                     <span class="icon-number c-base-text-1">3</span>
                                                 </div>
                                                 <div class="block-content">
-                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">No limitations. Sky is the limit</h3>
+                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">
+                                                      No limitations. Sky is the limit
+                                                  </h3>
                                                     <p class="mt-3 c-white">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
                                                     </p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
 
-                                    <div class="row">
+ <div class="row">
                                         <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                                             <div class="icon-block icon-block--style-1-v1">
                                                 <div class="block-icon">
@@ -121,12 +124,12 @@ permalink: /about/
                                                 <div class="block-content">
                                                     <h3 class="heading heading-5 c-base-text-1 strong-600">Updated every month</h3>
                                                     <p class="mt-3 c-white">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
                                                     </p>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+<div class="col-lg-4 col-md-12 col-sm-12 col-12">
                                             <div class="icon-block icon-block--style-1-v1">
                                                 <div class="block-icon">
                                                     <span class="icon-number c-base-text-1">5</span>
@@ -134,20 +137,20 @@ permalink: /about/
                                                 <div class="block-content">
                                                     <h3 class="heading heading-5 c-base-text-1 strong-600">Extensive documentation</h3>
                                                     <p class="mt-3 c-white">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
                                                     </p>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+   <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                                             <div class="icon-block icon-block--style-1-v1">
                                                 <div class="block-icon">
                                                     <span class="icon-number c-base-text-1">6</span>
                                                 </div>
                                                 <div class="block-content">
-                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">We are here for you. Contact us</h3>
+                      <h3 class="heading heading-5 c-base-text-1 strong-600">We are here for you. Contact us</h3>
                                                     <p class="mt-3 c-white">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
                                                     </p>
                                                 </div>
                                             </div>
@@ -158,7 +161,7 @@ permalink: /about/
                         </div>
                     </section>           
                     
-     <section class="slice-lg sct-color-1 border-top border-bottom animate-hover-slide-3">
+<section class="slice-lg sct-color-1 border-top border-bottom animate-hover-slide-3">
                         <div class="container">
                             <div class="section-title section-title--style-1 text-center mb-2">
                                 <h3 class="section-title-inner heading-2 text-normal">
@@ -167,16 +170,16 @@ permalink: /about/
                                 <span class="section-title-delimiter clearfix d-none"></span>
                             </div>
 
-                            <span class="clearfix"></span>
+<span class="clearfix"></span>
 
-                            <div class="fluid-paragraph fluid-paragraph-sm text-center">
+<div class="fluid-paragraph fluid-paragraph-sm text-center">
           <p class="text-lg c-gray-light">Start building fast, beautiful and modern looking websites in no time using our theme.</p>
                             </div>
 
-              <span class="space-xs-xl"></span>
+<span class="space-xs-xl"></span>
 
-                            <div class="row">
-                                <div class="col-lg-3 col-md-6">
+ <div class="row">
+   <div class="col-lg-3 col-md-6">
                                     <div class="block block--style-3 block--style-3-v2">
                                         <div class="figure block-image">
                                             <div class="view view-first">
@@ -185,7 +188,7 @@ permalink: /about/
                                                 </a>
                                             </div>
 
-                                            <div class="figcaption">
+  <div class="figcaption">
                                                 <ul class="social-icons text-right">
                                                     <li class="text pull-left">
                                                         <small>More on:</small>
@@ -203,7 +206,7 @@ permalink: /about/
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3 col-md-6">
+ <div class="col-lg-3 col-md-6">
                                     <div class="block block--style-3 block--style-3-v2">
                                         <div class="figure block-image">
                                             <div class="view view-first">
@@ -212,7 +215,7 @@ permalink: /about/
                                                 </a>
                                             </div>
 
-                                            <div class="figcaption">
+<div class="figcaption">
                                                 <ul class="social-icons text-right">
                                                     <li class="text pull-left">
                                                         <small>More on:</small>
@@ -223,14 +226,14 @@ permalink: /about/
                                                 </ul>
                                             </div>
                                         </div>
-                                        <div class="block-body text-center">
+                <div class="block-body text-center">
                                             <h3 class="heading heading-5 strong-600 mb-0">Darby Jewell</h3>
                                             <h4 class="heading heading-sm strong-300">System Administrator</h4>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3 col-md-6">
+ <div class="col-lg-3 col-md-6">
                                     <div class="block block--style-3 block--style-3-v2">
                                         <div class="figure block-image">
                                             <div class="view view-first">
@@ -239,7 +242,7 @@ permalink: /about/
                                                 </a>
                                             </div>
 
-                                            <div class="figcaption">
+   <div class="figcaption">
                                                 <ul class="social-icons text-right">
                                                     <li class="text pull-left">
                                                         <small>More on:</small>
@@ -250,25 +253,25 @@ permalink: /about/
                                                 </ul>
                                             </div>
                                         </div>
-                                        <div class="block-body text-center">
+ <div class="block-body text-center">
                                             <h3 class="heading heading-5 strong-600 mb-0">Bertram Ozzie</h3>
                                             <h4 class="heading heading-sm strong-300">Web Designer</h4>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3 col-md-6">
+<div class="col-lg-3 col-md-6">
                                     <div class="block block--style-3 block--style-3-v2">
                                         <div class="figure block-image">
                                             <div class="view view-first">
                                                 <a href="about-2.html#">
                                                     <img src="/assets/images/prv/team/business/img-b-4.jpg">
                                                 </a>
-                                            </div>
+                              </div>
 
-                                            <div class="figcaption">
-                                                <ul class="social-icons text-right">
-                                                    <li class="text pull-left">
+  <div class="figcaption">
+    <ul class="social-icons text-right">
+      <li class="text pull-left">
                                                         <small>More on:</small>
                                                     </li>
                                                     <li class="facebook"><a href="about-2.html#"><i class="fa fa-facebook"></i></a></li>
@@ -277,7 +280,7 @@ permalink: /about/
                                                 </ul>
                                             </div>
                                         </div>
-                                        <div class="block-body text-center">
+   <div class="block-body text-center">
                                             <h3 class="heading heading-5 strong-600 mb-0">Cliff Simon</h3>
                                             <h4 class="heading heading-sm strong-300">Creative Director</h4>
                                         </div>
@@ -285,7 +288,8 @@ permalink: /about/
                                 </div>
                             </div>
                         </div>
-                    </section>              
+  </section>  
+                    
 <section class="slice-lg sct-color-1">
                     <div class="container text-center">
                         <div class="row">
@@ -296,15 +300,12 @@ permalink: /about/
                                     </h3>
                                     <span class="section-title-delimiter clearfix d-none"></span>
                                 </div>
-
-                                <span class="clearfix"></span>
-
-                                <div class="fluid-paragraph fluid-paragraph-sm text-center">
+               <span class="clearfix"></span>
+<div class="fluid-paragraph fluid-paragraph-sm text-center">
                                     <p class="text-lg line-height-1_8 c-gray-light">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris quisque adipiscing lobortis aptent cras et justo.
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris quisque adipiscing lobortis aptent cras et justo.
                                     </p>
-
-                                    <a href="about-3.html#" class="btn btn-styled btn-base-1 btn-circle mt-5">Send your CV</a>
+ <a href="about-3.html#" class="btn btn-styled btn-base-1 btn-circle mt-5">Send your CV</a>
                                 </div>
                             </div>
                         </div>
