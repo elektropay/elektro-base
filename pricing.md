@@ -9,7 +9,7 @@ permalink: /pricing/
                             <div class="col">
                                 <div class="row py-3 text-center justify-content-center">
                                     <div class="col-12 col-md-10">
-                                        <h4 class="heading heading-sm c-gray-light text-uppercase mb-0">Want to start a new project?</h4>
+                 <h4 class="heading heading-sm c-gray-light text-uppercase mb-0">Want to start a new project?</h4>
                                         <span class="sd-1 sd-sm sd-thick-3px sd-center"></span>
           <h2 class="heading heading-2 line-height-1_8 strong-600 mt-3 animated" data-animation-in="fadeIn" data-animation-delay="400">
                                             Get Started with Everpay now, you get free<br>life-time support
@@ -28,8 +28,7 @@ permalink: /pricing/
                                     Pricing for every business types
                                 </h3>
                             </div>
-
-                            <div class="row cols-xs-space cols-md-space cols-lg-space">
+<div class="row cols-xs-space cols-md-space cols-lg-space">
                                 <div class="col-lg-4">
                                     <div class="card z-depth-2-top z-depth-3--hover">
                                         <div class="card-body text-center">
@@ -45,14 +44,12 @@ permalink: /pricing/
                                                         <li class="c-gray-light strong-400">Multi page layout</li>
                                                         <li class="c-gray-light strong-400">Premium plugins</li>
                                                     </ul>
-
-                                                    <span class="price-tag price-tag--1">
+    <span class="price-tag price-tag--1">
                                                         <sup>$</sup>
                                                         <span class="strong-700">0</span>
                                                         <span class="price-type">/mo</span>
                                                     </span>
-
-                                                    <a href="pricing-1.html#" class="btn btn-styled btn-base-1 btn-circle btn-shadow text-uppercase strong-600 mt-3 px-5">Get started</a>
+<a href="pricing-1.html#" class="btn btn-styled btn-base-1 btn-circle btn-shadow text-uppercase strong-600 mt-3 px-5">Get started</a>
                                                     <span class="clearfix"></span>
                                                     <a href="#" class="link link-sm link--style-3 text-capitalize mt-2">Learn more</a>
                                                 </div>
@@ -60,9 +57,8 @@ permalink: /pricing/
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="col-lg-4">
-                                    <div class="card z-depth-2-top z-depth-3--hover">
+<div class="col-lg-4">
+                             <div class="card z-depth-2-top z-depth-3--hover">
                                         <div class="card-body text-center">
                                             <div class="icon-block--style-1-v5">
                                                 <div class="block-icon block-icon-lg pt-4">
@@ -92,7 +88,7 @@ permalink: /pricing/
                                     </div>
                                 </div>
 
-                                <div class="col-lg-4">
+ <div class="col-lg-4">
                                     <div class="card z-depth-2-top z-depth-3--hover">
                                         <div class="card-body text-center">
                                             <div class="icon-block--style-1-v5">
@@ -107,14 +103,12 @@ permalink: /pricing/
                                                         <li class="c-gray-light strong-400">Multi page layout</li>
                                                         <li class="c-gray-light strong-400">Premium plugins</li>
                                                     </ul>
-
-                                                    <span class="price-tag price-tag--1">
+<span class="price-tag price-tag--1">
                                                         <sup>$</sup>
                                                         <span class="strong-700">99</span>
                                                         <span class="price-type">/mo</span>
                                                     </span>
-
-                                                    <a href="pricing-1.html#" class="btn btn-styled btn-base-1 btn-circle btn-shadow text-uppercase strong-600 mt-3 px-5">Get started</a>
+<a href="pricing-1.html#" class="btn btn-styled btn-base-1 btn-circle btn-shadow text-uppercase strong-600 mt-3 px-5">Get started</a>
                                                     <span class="clearfix"></span>
                                                     <a href="#" class="link link-sm link--style-3 text-capitalize mt-2">Learn more</a>
                                                 </div>
@@ -133,10 +127,8 @@ permalink: /pricing/
                                     What people say about Everpay.
                                 </h3>
                             </div>
-
-                            <span class="space-xs-xl"></span>
-
-                            <div class="row cols-xs-space cols-md-space cols-lg-space">
+ <span class="space-xs-xl"></span>
+<div class="row cols-xs-space cols-md-space cols-lg-space">
                                 <div class="col-lg-4">
                                     <div class="card card-blockquote z-depth-3-top">
                                         <div class="card-body">
@@ -149,16 +141,14 @@ permalink: /pricing/
                                                     <span class="heading-xs author-desc">CEO and Founder</span>
                                                 </div>
                                             </div>
-
-                                            <p class="mt-4 line-height-1_8">
-                                                Amazing template! All-in-one, clean code, beautiful design, and really not hard to work with.
-                                                Highly recommended for any kind on website.
+<p class="mt-4 line-height-1_8">
+                        Amazing services! All-in-one, great support, many selections, and easy to get set-up.
+                                                Highly recommended for any kind of business type.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="col-lg-4">
+<div class="col-lg-4">
                                     <div class="card card-blockquote z-depth-3-top">
                                         <div class="card-body">
                                             <div class="block-author">
@@ -170,15 +160,13 @@ permalink: /pricing/
                                                     <span class="heading-xs author-desc">Sales Manager</span>
                                                 </div>
                                             </div>
-
-                                            <p class="mt-4 line-height-1_8">
-                                                Probably the next number one template on the market. Very well structured, updates are regular and consistent, technical support always available. Well done!
+<p class="mt-4 line-height-1_8">
+Probably the next number one template on the market. Very well structured, updates are regular and consistent, technical support always available. Well done!
                                             </p>
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="col-lg-4">
+<div class="col-lg-4">
                                     <div class="card card-blockquote z-depth-3-top">
                                         <div class="card-body">
                                             <div class="block-author">
@@ -190,9 +178,8 @@ permalink: /pricing/
                                                     <span class="heading-xs author-desc">Designer</span>
                                                 </div>
                                             </div>
-
-                                            <p class="mt-4 line-height-1_8">
-                                     This is one of the next level payments platform that is totally worth its value. I appreciate the work
+<p class="mt-4 line-height-1_8">
+  This is one of the next level payments platform that is totally worth its value. I appreciate the work
                                                 done by the Everpay team and can't wait for the next update.
                                             </p>
                                         </div>
@@ -200,4 +187,4 @@ permalink: /pricing/
                                 </div>
                             </div>
                         </div>
-                    </section>                 
+ </section>                 
