@@ -125,3 +125,79 @@ permalink: /pricing/
                             </div>
                         </div>
                     </section>
+                    
+  <section class="slice-lg sct-color-1 border-top">
+                        <div class="container">
+                            <div class="section-title section-title--style-1 text-center">
+                                <h3 class="section-title-inner heading-3 text-normal strong-600">
+                                    What people say about Everpay.
+                                </h3>
+                            </div>
+
+                            <span class="space-xs-xl"></span>
+
+                            <div class="row cols-xs-space cols-md-space cols-lg-space">
+                                <div class="col-lg-4">
+                                    <div class="card card-blockquote z-depth-3-top">
+                                        <div class="card-body">
+                                            <div class="block-author">
+                                                <div class="author-image ">
+                                                    <img src="/assets/images/prv/people/person-1.jpg">
+                                                </div>
+                                                <div class="author-info">
+                                                    <span class="d-block heading-6 author-name strong-600 c-base-1">Cliff Simon</span>
+                                                    <span class="heading-xs author-desc">CEO and Founder</span>
+                                                </div>
+                                            </div>
+
+                                            <p class="mt-4 line-height-1_8">
+                                                Amazing template! All-in-one, clean code, beautiful design, and really not hard to work with.
+                                                Highly recommended for any kind on website.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-4">
+                                    <div class="card card-blockquote z-depth-3-top">
+                                        <div class="card-body">
+                                            <div class="block-author">
+                                                <div class="author-image ">
+                                                    <img src="/assets/images/prv/people/person-2.jpg">
+                                                </div>
+                                                <div class="author-info">
+                                                    <span class="d-block heading-6 author-name strong-600 c-base-1">Elisabeth Alanna</span>
+                                                    <span class="heading-xs author-desc">Sales Manager</span>
+                                                </div>
+                                            </div>
+
+                                            <p class="mt-4 line-height-1_8">
+                                                Probably the next number one template on the market. Very well structured, updates are regular and consistent, technical support always available. Well done!
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-4">
+                                    <div class="card card-blockquote z-depth-3-top">
+                                        <div class="card-body">
+                                            <div class="block-author">
+                                                <div class="author-image ">
+                                                    <img src="/assets/images/prv/people/person-3.jpg">
+                                                </div>
+                                                <div class="author-info">
+                                                    <span class="d-block heading-6 author-name strong-600 c-base-1">Bertram Ozzie</span>
+                                                    <span class="heading-xs author-desc">Designer</span>
+                                                </div>
+                                            </div>
+
+                                            <p class="mt-4 line-height-1_8">
+                                     This is one of the next level payments platform that is totally worth its value. I appreciate the work
+                                                done by the Everpay team and can't wait for the next update.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>                 
