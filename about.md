@@ -77,7 +77,7 @@ permalink: /about/
                                                     <span class="icon-number c-base-text-1">1</span>
                                                 </div>
                                                 <div class="block-content">
-                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">A whole new template concept</h3>
+                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">A whole new payments concept</h3>
                                                     <p class="mt-3 c-white">
                                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
                                                     </p>
@@ -181,7 +181,7 @@ permalink: /about/
                                         <div class="figure block-image">
                                             <div class="view view-first">
                                                 <a href="about-2.html#">
-                                                    <img src="/assets/images/prv/team/business/img-b-1.jpg">
+                                                    <img src="/assets/images/prv/team/business/img-b-5.jpg">
                                                 </a>
                                             </div>
 
@@ -286,3 +286,28 @@ permalink: /about/
                             </div>
                         </div>
                     </section>              
+<section class="slice-lg sct-color-1">
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="section-title section-title--style-1 text-center mb-4">
+                                    <h3 class="section-title-inner heading-2 text-normal">
+                                        Want to be part of our team?
+                                    </h3>
+                                    <span class="section-title-delimiter clearfix d-none"></span>
+                                </div>
+
+                                <span class="clearfix"></span>
+
+                                <div class="fluid-paragraph fluid-paragraph-sm text-center">
+                                    <p class="text-lg line-height-1_8 c-gray-light">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris quisque adipiscing lobortis aptent cras et justo.
+                                    </p>
+
+                                    <a href="about-3.html#" class="btn btn-styled btn-base-1 btn-circle mt-5">Send your CV</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
