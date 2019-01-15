@@ -36,6 +36,128 @@ permalink: /about/
                         </div>
                     </section>
                     
+ <section class="slice-xl sct-color-1" style="padding-bottom: 12em;">
+                        <span class="mask mask-light--style-1"></span>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <h3 class="heading heading-2 strong-400 c-black">
+                                        We are the best choice for you
+                                    </h3>
+                                    <p class="text-lg line-height-1_8 c-black mt-4">
+                                        Not only you get great features and modular components, but also a gateway that works as a platform, meaning you can build on it.
+                                        An easy to understand interface with intuitive tools that will ease your work for sure. 
+                                        <br><br>
+                                        Tones of variables are awaiting to be customized
+                                        with simple values changes. With Everpay, scaling your business has never been easier and more profitable.
+                                    </p>                                   
+                                </div>
+                            </div>
+                        </div>
+                    </section>                  
+                    
+        <section class="ss-slice ss-style-doublediagonal bg-base-1" style="padding-bottom: 18em;">
+                        <div class="container">
+                            <div class="section-title section-title-inverse section-title--style-1 text-center">
+                                <h3 class="section-title-inner heading-1 c-white text-normal">
+                                    What's different?
+                                </h3>
+                                <span class="section-title-delimiter clearfix d-none"></span>
+                            </div>
+
+                            <span class="clearfix"></span>
+                            <span class="space-xs-xl"></span>
+
+                            <div class="">
+                                <div class="row-wrapper">
+                                    <div class="row">
+                                        <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+                                            <div class="icon-block icon-block--style-1-v1">
+                                                <div class="block-icon c-base-text-1">
+                                                    <span class="icon-number c-base-text-1">1</span>
+                                                </div>
+                                                <div class="block-content">
+                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">A whole new template concept</h3>
+                                                    <p class="mt-3 c-white">
+                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+                                            <div class="icon-block icon-block--style-1-v1">
+                                                <div class="block-icon">
+                                                    <span class="icon-number c-base-text-1">2</span>
+                                                </div>
+                                                <div class="block-content">
+                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">Customize it in no time</h3>
+                                                    <p class="mt-3 c-white">
+                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+                                            <div class="icon-block icon-block--style-1-v1">
+                                                <div class="block-icon">
+                                                    <span class="icon-number c-base-text-1">3</span>
+                                                </div>
+                                                <div class="block-content">
+                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">No limitations. Sky is the limit</h3>
+                                                    <p class="mt-3 c-white">
+                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+                                            <div class="icon-block icon-block--style-1-v1">
+                                                <div class="block-icon">
+                                                    <span class="icon-number c-base-text-1">4</span>
+                                                </div>
+                                                <div class="block-content">
+                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">Updated every month</h3>
+                                                    <p class="mt-3 c-white">
+                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+                                            <div class="icon-block icon-block--style-1-v1">
+                                                <div class="block-icon">
+                                                    <span class="icon-number c-base-text-1">5</span>
+                                                </div>
+                                                <div class="block-content">
+                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">Extensive documentation</h3>
+                                                    <p class="mt-3 c-white">
+                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+                                            <div class="icon-block icon-block--style-1-v1">
+                                                <div class="block-icon">
+                                                    <span class="icon-number c-base-text-1">6</span>
+                                                </div>
+                                                <div class="block-content">
+                                                    <h3 class="heading heading-5 c-base-text-1 strong-600">We are here for you. Contact us</h3>
+                                                    <p class="mt-3 c-white">
+                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>           
+                    
      <section class="slice-lg sct-color-1 border-top border-bottom animate-hover-slide-3">
                         <div class="container">
                             <div class="section-title section-title--style-1 text-center mb-2">
