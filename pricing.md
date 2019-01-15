@@ -4,16 +4,16 @@ title: Our Pricing
 permalink: /pricing/
 ---
 
-<section class="slice-lg sct-color-3 holder-item holder-item-dark has-bg-cover bg-size-contain" style="background-image: url("https://res.cloudinary.com/lmj6rf6tz/image/upload/v1458022388/merchant_accounts_kwqdyi.png"); background-position: center center;">
-                        <div class="container container-sm d-flex align-items-center">
-                            <div class="col">
-                                <div class="row py-3 text-center justify-content-center">
-                                    <div class="col-12 col-md-10">
+<section class="slice-lg sct-color-3 holder-item holder-item-dark has-bg-cover bg-size-contain" style="background-image:  url(https://res.cloudinary.com/lmj6rf6tz/image/upload/v1458022388/merchant_accounts_kwqdyi.png); background-position: center center;">
+  <div class="container container-sm d-flex align-items-center">
+        <div class="col">
+<div class="row py-3 text-center justify-content-center">
+<div class="col-12 col-md-10">
                  <h4 class="heading heading-sm c-gray-light text-uppercase mb-0">Want to start a new project?</h4>
-                                        <span class="sd-1 sd-sm sd-thick-3px sd-center"></span>
-          <h2 class="heading heading-2 line-height-1_8 strong-600 mt-3 animated" data-animation-in="fadeIn" data-animation-delay="400">
-                                            Get Started with Everpay now, you get free<br>life-time support
-                                        </h2>
+<span class="sd-1 sd-sm sd-thick-3px sd-center"></span>
+<h2 class="heading heading-2 line-height-1_8 strong-600 mt-3 animated" data-animation-in="fadeIn" data-animation-delay="400">
+Get Started with Everpay now, you get free<br>life-time support
+</h2>
  <a href="/#get-pricing" target="_blank" class="btn btn-styled btn-green btn-circle btn-shadow px-4 mt-5">Choose A Plan</a>
                                     </div>
                                 </div>
