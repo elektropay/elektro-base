@@ -4,17 +4,17 @@ title: Our Pricing
 permalink: /pricing/
 ---
 
-<section class="slice-lg sct-color-1 holder-item holder-item-dark has-bg-cover bg-size-contain" style="background-image: url(/assets/images/backgrounds/png/img-1.png); background-position: center center;">
+<section class="slice-lg sct-color-3 holder-item holder-item-dark has-bg-cover bg-size-contain" style="background-image: url("https://res.cloudinary.com/lmj6rf6tz/image/upload/v1458022388/merchant_accounts_kwqdyi.png"); background-position: center center;">
                         <div class="container container-sm d-flex align-items-center">
                             <div class="col">
                                 <div class="row py-3 text-center justify-content-center">
                                     <div class="col-12 col-md-10">
                                         <h4 class="heading heading-sm c-gray-light text-uppercase mb-0">Want to start a new project?</h4>
                                         <span class="sd-1 sd-sm sd-thick-3px sd-center"></span>
-                                        <h2 class="heading heading-2 line-height-1_8 strong-600 mt-3 animated" data-animation-in="fadeIn" data-animation-delay="400">
+          <h2 class="heading heading-2 line-height-1_8 strong-600 mt-3 animated" data-animation-in="fadeIn" data-animation-delay="400">
                                             Get Started with Everpay now, you get free<br>life-time support
                                         </h2>
-                                        <a href="https://goo.gl/9BbH7R" target="_blank" class="btn btn-styled btn-base-1 btn-circle btn-shadow px-4 mt-5">Purchase on Wrapbootstrap</a>
+ <a href="/#get-pricing" target="_blank" class="btn btn-styled btn-green btn-circle btn-shadow px-4 mt-5">Choose A Plan</a>
                                     </div>
                                 </div>
                             </div>
@@ -23,7 +23,7 @@ permalink: /pricing/
  
  <section class="slice-lg sct-color-2 border-top border-bottom">
                         <div class="container">
-                            <div class="section-title section-title--style-1 text-center">
+                            <div class="section-title section-title--style-1 text-center" id="get-pricing">
                                 <h3 class="section-title-inner heading-3 text-normal strong-600">
                                     Pricing for every business types
                                 </h3>
@@ -83,7 +83,7 @@ permalink: /pricing/
                                                         <span class="price-type">/mo</span>
                                                     </span>
 
-                                                    <a href="pricing-1.html#" class="btn btn-styled btn-base-1 btn-circle btn-shadow text-uppercase strong-600 mt-3 px-5">Get started</a>
+                                                    <a href="#" class="btn btn-styled btn-base-1 btn-circle btn-shadow text-uppercase strong-600 mt-3 px-5">Get started</a>
                                                     <span class="clearfix"></span>
                                                     <a href="#" class="link link-sm link--style-3 text-capitalize mt-2">Learn more</a>
                                                 </div>
