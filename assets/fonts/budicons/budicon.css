@@ -1,10 +1,10 @@
 @font-face {
   font-family: "budicon-font";
-  src:url("budicons/fonts/budicon-font.eot");
-  src:url("budicons/fonts/budicon-font.eot?#iefix") format("embedded-opentype"),
-    url("budicons/fonts/budicon-font.woff") format("woff"),
-    url("budicons/fonts/budicon-font.ttf") format("truetype"),
-    url("budicons/fonts/budicon-font.svg#budicon-font") format("svg");
+  src:url("fonts/budicon-font.eot");
+  src:url("fonts/budicon-font.eot?#iefix") format("embedded-opentype"),
+    url("fonts/budicon-font.woff") format("woff"),
+    url("fonts/budicon-font.ttf") format("truetype"),
+    url("fonts/budicon-font.svg#budicon-font") format("svg");
   font-weight: normal;
   font-style: normal;
 
