@@ -8689,6 +8689,11 @@ svg#bigTriangleColor {
     color: rgba(255, 255, 255, 0.8)
 }
 
+.footer--copyright__wrapper {
+    width: 74.46809%;
+    margin: auto;
+}
+
 .footer ul.footer-links {
     margin: 0;
     padding: 0;
