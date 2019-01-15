@@ -4,7 +4,9 @@ title: Contact us
 permalink: /contact/
 ---
 
-<section class="slice-xl" style="background-image: url(/assets/images/backgrounds/slider/img-44.jpg); background-position: bottom center;">
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<section class="slice-xl" style="background-image: url(https://res.cloudinary.com/lmj6rf6tz/image/upload/v1491559163/thumb6_umnr5z.jpg); background-position: bottom center;">
 <span class="mask mask-dark--style-1"></span>
                         <div class="container">
                             <div class="row">
@@ -29,7 +31,9 @@ permalink: /contact/
                                 <div class="col-lg-6 mt--150">
                                     <!-- Map canvas -->
                                     <div id="google-map">
-                                        <!-- #google-container will contain the map  -->
+                                 
+                            <div id="map_canvas" class="map-canvas" ></div>
+                                      
                                     </div>
                                 </div>
                             </div>
@@ -53,101 +57,79 @@ permalink: /contact/
                             </div>
                         </div>
                     </section>
+<section class="slice sct-color-1" id="nextSection">
+                        <div class="container">
+                            <div class="row cols-xs-space cols-sm-space cols-md-space">
+                                <div class="col-lg-4">
+                                    <div class="block block--style-3">
+                                        <div class="block-body">
+                                            <div class="icon-block--style-1-v5 text-center">
+                                                <div class="block-icon-lg c-gray-dark">
+                                                    <i class="icon-basic-smartphone"></i>
+                                                </div>
+                                                <div class="block-content mt-1">
+                                                    <h3 class="heading heading-6 strong-600">
+                                                        Sales department
+                                                    </h3>
+                                                    <p>
+                                                        Lorem ipsum dolor sit amet consectetur adipiscing  eiusmod tempor.
+                                                    </p>
+                                                    <a href="contact-1.html#" class="link link-sm link--style-2 strong-600 c-gray-dark">
+                                                        sales@example.com
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
 
+                                <div class="col-lg-4">
+                                    <div class="block block--style-3">
+                                        <div class="block-body">
+                                            <div class="icon-block--style-1-v5 text-center">
+                                                <div class="block-icon-lg c-gray-dark">
+                                                    <i class="icon-basic-gear"></i>
+                                                </div>
+                                                <div class="block-content mt-1">
+                                                    <h3 class="heading heading-6 strong-600">
+                                                        Technical support
+                                                    </h3>
+                                                    <p>
+                                                        Lorem ipsum dolor sit amet consectetur adipiscing  eiusmod tempor.
+                                                    </p>
+                                                    <a href="#" class="link link-sm link--style-2 strong-600 c-gray-dark">
+                                                        support@everpayinc.com
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
 
-<!-- contact form start -->
-<section id="contact-form" class="hidden" style="display:none">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <form>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Your Name">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Email Address">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Subject">
-            </div>
-          </form>
-        </div>
-      </div>
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <form>
-            <div class="form-group-2">
-              <textarea class="form-control" rows="3" placeholder="Your Message"></textarea>
-            </div>
-            <button class="btn btn-default" type="submit">Send Message</button>
-          </form>
-        </div>
-      </div>
-    </div>
-    <div id="contact-box" class="row">
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <h2>Stop By For A visit</h2>
-          <ul class="address-block">
-            <li>
-              <i class="fa fa-map-marker"></i>North Main Street,Brooklyn Australia
-            </li>
-            <li>
-              <i class="fa fa-envelope-o"></i>Email: contact@mail.com
-            </li>
-            <li>
-              <i class="fa fa-phone"></i>Phone:+88 01672 506 744
-            </li>
-          </ul>
-
-          <ul class="social-icons">
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-google"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-linkedin"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-pinterest"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-dribbble"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-behance"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-twitter"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-facebook"></i></a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <h2>We Also Count In Google Map</h2>
-            <div class="google-map">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.472979439986!2d-73.97769068489596!3d40.7516207793276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2590247c56379%3A0x15e13bea38b43e18!2sChrysler+Building!5e0!3m2!1sen!2sus!4v1477406538220" width="555" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- Call to action Start -->
-<section id="call-to-action">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h2>We design delightful digital experiences.</h2>
-          <p>Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.</p>
-          <a class="btn btn-default btn-call-to-action" href="#" >Tell Us Your Story</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+                                <div class="col-lg-4">
+                                    <div class="block block--style-3">
+                                        <div class="block-body">
+                                            <div class="icon-block--style-1-v5 text-center">
+                                                <div class="block-icon-lg c-gray-dark">
+                                                    <i class="icon-basic-globe"></i>
+                                                </div>
+                                                <div class="block-content mt-1">
+                                                    <h3 class="heading heading-6 strong-600">
+                                                        Our offices
+                                                    </h3>
+                                                    <p>
+                                                        9975 Emerald Escape, Suite 23
+                                                        <br>
+                                                        Los Angeles, LA 1001
+                                                    </p>
+                                                    <a href="#" class="link link-sm link--style-2 strong-600 c-gray-dark">
+                                                        See locations
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
