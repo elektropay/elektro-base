@@ -15,16 +15,13 @@ permalink: /about/
                                     <p class="lead line-height-1_8 strong-300 mt-4 c-white">
                             We put all the experience and know-how in Everpay so we can offer you the best product we have ever built.
                                     </p>
-
-                                    <a href="about-2.html#" class="btn btn-styled btn-white btn-circle mt-5">Read the story</a>
+<a href="about-2.html#" class="btn btn-styled btn-white btn-circle mt-5">Read the story</a>
                                 </div>
-
-                                <div class="col-md-6 ml-lg-auto">
+<div class="col-md-6 ml-lg-auto">
                                     <div class="block block-image-holder z-depth-3">
                                         <div class="block-image">
                                             <img src="/assets/images/prv/other/img-12-1000x900.jpg" class="img-fluid img-center">
-
-                                            <a href="https://www.youtube.com/watch?v=zodT9bCdIiI" data-fancybox>
+<a href="https://www.youtube.com/watch?v=zodT9bCdIiI" data-fancybox>
                                                 <span class="play-video">
                                                     <i class="fa fa-play"></i>
                                                 </span>
@@ -34,7 +31,7 @@ permalink: /about/
                                 </div>
                             </div>
                         </div>
-                    </section>
+ </section>
                     
  <section class="slice-xl sct-color-1" style="padding-bottom: 12em;">
                         <span class="mask mask-light--style-1"></span>
@@ -310,5 +307,5 @@ permalink: /about/
                             </div>
                         </div>
                     </div>
-                </section>
+</section>
                 
