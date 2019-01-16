@@ -8695,12 +8695,14 @@ svg#bigTriangleColor {
 }
 
 .footer .heading {
-    color: rgba(255, 255, 255, 0.8);
+    color: #FFFFFF;
     font-weight: 400;
     font-style: normal;
     font-size: 1rem!important;
     line-height: 1.75rem;
-    letter-spacing: 1px;
+    letter-spacing: 1px;  
+    border-bottom: 0.0625rem solid rgba(255,255,255,0.1);
+    padding-bottom: 1.5rem;
     text-transform: none
 }
 
@@ -8709,16 +8711,26 @@ svg#bigTriangleColor {
     margin: auto;
 }
 
+
+
+.footer img {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 0.5rem
+}
+
 .footer ul.footer-links {
     margin: 0;
     padding: 0;
+    padding-bottom: 1rem;
+    padding-top: 0.2375rem;
     list-style: none
 }
 
 .footer .footer-links>li>a {
     display: inline-block;
     padding: 0.25rem 0;
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     font-weight: 400;
     color: rgba(255, 255, 255, 0.7)
 }
@@ -8760,8 +8772,8 @@ svg#bigTriangleColor {
     padding: 0.25rem 0.4rem;
     color: rgba(255, 255, 255, 0.7);
     font-weight: 500;
-    font-size: .875rem;
-    text-transform: uppercase
+    font-size: .75rem;
+    text-transform: none
 }
 
 .footer .footer-menu-sm>li>a {
@@ -8796,12 +8808,12 @@ svg#bigTriangleColor {
 .footer .copy-links li {
     display: inline-block;
     margin-right: 10px;
-    font-size: .75rem;
+    font-size: .65rem;
     color: #818a91
 }
 
 .footer .copy-links li a {
-    color: #818a91
+    color: #fefefe
 }
 
 .footer .copy-links li a:hover {
