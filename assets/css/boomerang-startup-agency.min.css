@@ -8679,11 +8679,8 @@ svg#bigTriangleColor {
 .footer-bottom .copyright {
     border-bottom: 0;
     float: left; 
-    font-size: 0.875rem;
-    text-align: left;
-    width: 86.66667%;
-    margin-left: auto;
-    margin-right: auto;
+    font-size: 0.695rem;
+    margin: 10px 0 0 0;
     width: auto
 }
 
@@ -8807,12 +8804,12 @@ svg#bigTriangleColor {
 
 .footer .copy-links li {
     display: inline-block;
-    margin-right: 10px;
+    margin-right: 15px;
     color: #818a91
 }
 
 .footer .copy-links li a {
-   font-size: .75rem;
+   font-size: .695rem;
     color: #fefefe
 }
 
