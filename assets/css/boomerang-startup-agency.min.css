@@ -8730,7 +8730,7 @@ svg#bigTriangleColor {
 .footer .footer-links>li>a {
     display: inline-block;
     padding: 0.25rem 0;
-    font-size: 0.85rem;
+    font-size: 0.75rem;
     font-weight: 400;
     color: rgba(255, 255, 255, 0.7)
 }
@@ -8745,7 +8745,7 @@ svg#bigTriangleColor {
 }
 
 .footer p {
-    font-size: .875rem
+    font-size: .825rem
 }
 
 .footer .social-media>li>a>i {
@@ -8772,7 +8772,7 @@ svg#bigTriangleColor {
     padding: 0.25rem 0.4rem;
     color: rgba(255, 255, 255, 0.7);
     font-weight: 500;
-    font-size: .75rem;
+    font-size: .65rem;
     text-transform: none
 }
 
