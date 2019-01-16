@@ -8695,7 +8695,7 @@ svg#bigTriangleColor {
     color: #FFFFFF;
     font-weight: 400;
     font-style: normal;
-    font-size: 1rem!important;
+    font-size: 1.125rem!important;
     line-height: 1.75rem;
     letter-spacing: 1px;  
     border-bottom: 0.0625rem solid rgba(255,255,255,0.1);
@@ -8727,7 +8727,7 @@ svg#bigTriangleColor {
 .footer .footer-links>li>a {
     display: inline-block;
     padding: 0.25rem 0;
-    font-size: 0.75rem;
+    font-size: 0.85rem;
     font-weight: 400;
     color: rgba(255, 255, 255, 0.7)
 }
