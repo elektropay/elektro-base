@@ -2085,8 +2085,8 @@ html {
 body {
     font-family: "Roboto", sans-serif;
     font-size: 1rem;
-    letter-spacing: 0.9;
-    line-height: 1.5;
+    letter-spacing: 0.0675rem;
+    line-height: 1.45;
     color: #2b2b2c;
     background-color: #fff
 }
@@ -8808,16 +8808,16 @@ svg#bigTriangleColor {
 .footer .copy-links li {
     display: inline-block;
     margin-right: 10px;
-    font-size: .65rem;
     color: #818a91
 }
 
 .footer .copy-links li a {
+   font-size: .75rem;
     color: #fefefe
 }
 
 .footer .copy-links li a:hover {
-    text-decoration: underline
+    text-decoration: none
 }
 
 .footer-inverse {
