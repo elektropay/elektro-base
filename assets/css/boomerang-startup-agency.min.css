@@ -8718,17 +8718,14 @@ svg#bigTriangleColor {
     letter-spacing: 0.5px;
     display: inline;
     padding: .2em .6em .3em;
-    font-size: 75%;
+    font-size: 70%;
     line-height: 1;
     color: #fff;
+    background-color: #337ab7;
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
     border-radius: .25em
-}
-
-.footer .label .label-primary {
-    background-color: #337ab7
 }
 
 .footer img {
@@ -8737,7 +8734,7 @@ svg#bigTriangleColor {
     padding-bottom: 0.5rem
 }
 
-.footer .footer-bottom img {
+.footer .footer-bottom>img {
     margin: 0;
     padding: 0;
     padding-bottom: 0
