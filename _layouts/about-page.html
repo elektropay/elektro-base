@@ -1,15 +1,36 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en" class="lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html lang="en" class="lt-ie10 lt-ie9 lt-ie8 ie7"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="lt-ie10 lt-ie9 ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--><html lang="en" class="no-js"><!--<![endif]-->
 
 
+  {% include head.html %}
+
+<body>
+
+
+<!-- MAIN WRAPPER -->
+<div class="body-wrap">
+    <div id="st-container" class="st-container">
+
+        <div class="st-pusher">
+            <div class="st-content">
+                <div class="st-content-inner">
+
+  <div id="site-header" class="header site-header everpayTopHeader-processed is-sticky" role="banner" aria-label="Site-Header">
+    {% include header.html %}
+  </div>
+                  
 <section class="slice-lg slice--offset-top has-bg-cover bg-size-cover" style="background-image: url(https://res.cloudinary.com/lmj6rf6tz/image/upload/v1491557670/bg-pattern-8_arr1zm.png); background-position: left center;">
-                        <span class="mask mask-dark--style-1"></span>
+<span class="mask mask-dark--style-1"></span>
                         <div class="container relative">
                             <div class="row cols-xs-space cols-sm-space cols-md-space align-items-center text-left">
                                 <div class="col-lg-5 col-md-6">
- <h1 class="heading heading-responsive heading-1 strong-500 c-white"> About EverPay</h1>
- <p class="lead line-height-1_8 strong-300 mt-4 c-white">
-             We put all the experience and know-how in Everpay so we can offer you the most versatile commerce solution.
-                                    </p>
-<a href="#" class="btn btn-styled btn-white btn-circle mt-5">Read the story</a>
+ <h1 class="heading heading-responsive heading-1 strong-500 c-white">{{ page.title }</h1>
+        <p class="lead line-height-1_8 strong-300 mt-4 c-white">{{ page.description }}</p>         
+         <a href="#" class="btn btn-styled btn-white btn-circle mt-5">Read the story</a>
                                 </div>
 <div class="col-md-6 ml-lg-auto">
                                     <div class="block block-image-holder z-depth-3">
@@ -25,5 +46,13 @@
                                 </div>
                             </div>
                         </div>
- </section>
-                    
+ </section>                  
+                      
+        {{ content }}
+  
+    {% include footer.html %}
+
+  </body>
+
+</html>
+                   
