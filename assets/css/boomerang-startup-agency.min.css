@@ -8726,10 +8726,10 @@ svg#bigTriangleColor {
 
 .footer .label {
     font-weight: 400;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.45px;
     display: inline;
     padding: .2em .6em .3em;
-    font-size: 70%;
+    font-size: 65%;
     line-height: 1;
     color: #fff;
     background-color: #337ab7;
@@ -8774,6 +8774,12 @@ svg#bigTriangleColor {
 .footer .footer-links>li>.footer-link-date {
     display: block;
     margin-bottom: 0.5rem
+}
+
+.footer .powered-by-links {
+    margin: -1px 0 0 0;
+    padding: 0;
+    list-style: none;
 }
 
 .footer p {
