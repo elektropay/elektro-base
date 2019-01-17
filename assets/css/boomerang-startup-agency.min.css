@@ -1383,6 +1383,13 @@ font-size: .575rem
     }
 }
 
+.megamenu>.dropdown-menu .products {
+    min-width: auto;
+    width: 640px;
+    max-width: 680px; 
+    left: 6% !important
+}
+
 @media (min-width: 992px) {
     .navbar-nav .dropdown-menu {
         margin-top: 0
