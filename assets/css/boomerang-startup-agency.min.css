@@ -1538,6 +1538,12 @@ font-size: .575rem
         right: 0;
         width: 100%
     }
+   
+.megamenu>.dropdown-menu .features {
+    left: 1%;
+    right: 0;
+    width: 100%;
+} 
     .justify-content-around .megamenu>.dropdown-menu {
         left: auto;
         right: 1%;
@@ -1554,7 +1560,15 @@ font-size: .575rem
         width: 100%;
         max-width: 1200px
     }
-    .justify-content-around .megamenu>.dropdown-menu {
+    
+ .features .justify-content-around .megamenu>.dropdown-menu {
+    min-width: auto;
+    width: 100%;
+    max-width: 700px;
+    left: 1% !important
+    }
+
+ .justify-content-around .megamenu>.dropdown-menu {
         right: 50%;
         transform: translateX(50%)
     }
@@ -2092,6 +2106,15 @@ html {
     box-sizing: border-box
 }
 
+@media (min-width: 112.5em) {
+html {
+    background-color: #fff;
+    max-width: 112.5rem;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    height: 100%;
+    }
+}
 @-ms-viewport {
     width: device-width
 }
