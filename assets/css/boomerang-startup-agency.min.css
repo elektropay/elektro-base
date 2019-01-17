@@ -2809,8 +2809,6 @@ a:hover {
 }
 
 body {
-    font-size: 1rem;
-    font-family: 'Lato',sans-serif;
     color: #676767
 }
 
@@ -3247,6 +3245,11 @@ blockquote .blockquote-source::before {
     opacity: 0.2;
     font-family: Georgia, "Times New Roman", Times, serif
 }
+
+.mask-base-1--style-6 {
+    background: rgba(81,181,136,1);
+}
+
 
 .icon-pic--style-1 {
     color: #6d0eb1
