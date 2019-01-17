@@ -9,6 +9,7 @@ twitter_username: everpay
 github_username:  Everpay
 linkedin_username: everpay
 facebook_username: everpay
+slack_username: everpay
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://cranky-goldberg-9be656.netlify.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
