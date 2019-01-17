@@ -1162,6 +1162,17 @@
     margin-bottom: 1rem
 }
 
+#phone-circle {
+margin: 0rem;
+}
+
+.call-header {
+border: 1px solid #FFF!important;
+border-radius: 25rem,
+color: #FFF;
+font-size: .775rem
+}
+
 .navbar-nav .nav-item-icon .nav-link:focus,
 .navbar-nav .nav-item-icon .nav-link:hover,
 .navbar-nav .nav-item-icon.show .nav-link,
