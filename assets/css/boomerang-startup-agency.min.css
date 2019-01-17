@@ -8779,7 +8779,16 @@ svg#bigTriangleColor {
 .footer .powered-by-links {
     margin: -1px 0 0 0;
     padding: 0;
-    list-style: none;
+    list-style: none
+}
+
+.footer .powered-by-links li a {
+   font-size: .695rem;
+    color: #fefefe
+}
+
+.footer .powered-by-links li a:hover {
+    text-decoration: none
 }
 
 .footer p {
@@ -8858,11 +8867,9 @@ svg#bigTriangleColor {
     text-decoration: none
 }
 
-.footer .copy-links li .last {
+.footer .powered-by-links .last li {
     float:right;
-    display: inline-block;
-    margin-right: 5px;
-    color: #818a91
+    display: inline-block
 }
 
 .footer-inverse {
