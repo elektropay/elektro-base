@@ -1170,7 +1170,8 @@ margin: 0rem
 border: 1px solid #FFF !important;
 border-radius: 25rem;
 color: #FFF;
-font-size: .775rem
+padding: 5px;
+font-size: .575rem
 }
 
 .navbar-nav .nav-item-icon .nav-link:focus,
