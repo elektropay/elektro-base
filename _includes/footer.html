@@ -54,27 +54,27 @@
                         <ul class="footer-links mt-2">
                              <li>
                                  <a href="{{ site.baseurl }}/about/" title="About">
-                                   About us
+                                   About Us
                                  </a>
                              </li>
                              <li>
                                  <a href="{{ site.baseurl }}/contact/" title="Contact">
-                                     Contact us
+                                     Contact Us
                                  </a>
                              </li>
                              <li>
                                  <a href="{{ site.baseurl }}/careers/" title="Careers">
-                                Jobs&emsp;<span class="label label-primary">We're hiring!</span>                                 
+                                Jobs&amp;Careers<span class="label label-primary">We're hiring!</span>                                 
                               </a>
                              </li>
                              <li>
-                                 <a href="https://partners.everpayinc.com/" title="Partners">
-                                    Partners
+                                 <a href="https://blog.everpayinc.com/" title="Our Blog">
+                                    Elektolite Blog
                                  </a>
                              </li>
                              <li>
-                                 <a href="https://blog.everpayinc.com/" title="Blog">
-                                    Elektolite Blog
+                                 <a href="https://partners.everpayinc.com/" title="Partners">
+                                    Partnerships
                                  </a>
                              </li>
                          </ul>
@@ -115,11 +115,21 @@
                
           {% if site.github_username %}          
                             <li>
-                                <a href="https://github.com/{{ site.github_username }}" class="github" target="_blank" data-toggle="tooltip" data-original-title="Github">
+                                <a href="https://github.com/{{ site.github_username }}" class="github" data-no-turbolink="true" target="_blank" data-toggle="tooltip" data-original-title="Github">
                                 <span class="icon icon--github"> <i data-feather="github" class="c-white mt-2 btn-icon" stroke-width="1"></i> </span>                                   
                               </a>
                             </li>
-                         {% endif %}                       
+                         {% endif %}          
+         
+               
+          {% if site.slack_username %}          
+                            <li>
+                                <a href="https://{{ site.slack_username }}.slack.com/" class="slack" target="_blank" data-toggle="tooltip" data-status-link-for="everpayapp" title="Visit our status page">
+                                <span class="icon icon--slack"> <i data-feather="slack" class="c-white mt-2 btn-icon" stroke-width="1"></i> </span>                                   
+                              </a>
+                            </li>
+                         {% endif %}   
+                         
                      </ul>
                     </div>
                 </div>
