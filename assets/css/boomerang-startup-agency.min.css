@@ -8685,7 +8685,7 @@ svg#bigTriangleColor {
     border-bottom: 0;
     float: left; 
     font-size: 0.695rem;
-    margin: 5px 0 0 0;
+    margin: 10px 0 0 0;
     width: auto
 }
 
@@ -8737,7 +8737,7 @@ svg#bigTriangleColor {
 .footer .footer-bottom>img {
     margin: 0;
     padding: 0;
-    padding-bottom: 0
+    padding-bottom: 0.35rem
 }
 
 .footer ul.footer-links {
