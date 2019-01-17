@@ -1163,7 +1163,8 @@
 }
 
 #phone-circle {
-margin: 0rem
+margin: 0rem;
+margin-top: -4px    
 }
 
 .call-header {
