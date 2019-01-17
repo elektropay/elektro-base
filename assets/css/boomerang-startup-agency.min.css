@@ -8841,6 +8841,13 @@ svg#bigTriangleColor {
     text-decoration: none
 }
 
+.footer .copy-links li .last {
+    float:right;
+    display: inline-block;
+    margin-right: 5px;
+    color: #818a91
+}
+
 .footer-inverse {
     background: #eee;
     color: rgba(0, 0, 0, 0.8)
