@@ -8623,9 +8623,9 @@ svg#bigTriangleColor {
 }
 
 #features-dropdown {
-    left: 7.5%;
+    left: 0;
     right: 0;
-    width: 640px;
+    width: 620px;
 }
 @media (min-width: 992px) {
     .show>.dropdown-menu {
