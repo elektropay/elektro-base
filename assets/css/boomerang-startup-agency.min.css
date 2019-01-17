@@ -8716,12 +8716,6 @@ svg#bigTriangleColor {
 .footer .label {
     font-weight: 400;
     letter-spacing: 0.5px;
-}
-.label-primary {
-    background-color: #337ab7;
-}
-
-.footer.label {
     display: inline;
     padding: .2em .6em .3em;
     font-size: 75%;
@@ -8731,9 +8725,12 @@ svg#bigTriangleColor {
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
-    border-radius: .25em;
+    border-radius: .25em
 }
 
+.footer .label .label-primary {
+    background-color: #337ab7
+}
 
 .footer img {
     margin: 0;
