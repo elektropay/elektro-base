@@ -851,6 +851,12 @@
     }
 }
 
+.navbar-brand {
+    display: inline-block;
+    padding-top: .05rem !important;
+    margin-right: 2rem !important;
+    white-space: nowrap
+}
 .navbar-nav .nav-link {
     font-size: .875rem;
     font-family: "Roboto", sans-serif;
