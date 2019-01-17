@@ -3248,6 +3248,7 @@ blockquote .blockquote-source::before {
 
 .mask-base-1--style-6 {
     background: rgba(81,181,136,1);
+    opacity: 0.9;
 }
 
 
