@@ -8654,7 +8654,7 @@ svg#bigTriangleColor {
 }
 
 .footer .container {
-    max-width: 112.5rem;
+    max-width: 112.5rem
 }
 
 .footer-top {
@@ -8693,7 +8693,7 @@ svg#bigTriangleColor {
     width: auto;
     margin-right: 4.125rem;
     padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
+    padding-bottom: 1.25rem
 }
 
 .footer .heading {
@@ -8710,7 +8710,7 @@ svg#bigTriangleColor {
 
 .footer--copyright__wrapper {
     width: 74.46809%;
-    margin: auto;
+    margin: auto
 }
 
 .footer .label {
@@ -8719,7 +8719,6 @@ svg#bigTriangleColor {
     display: inline;
     padding: .2em .6em .3em;
     font-size: 75%;
-    font-weight: 700;
     line-height: 1;
     color: #fff;
     text-align: center;
@@ -8736,6 +8735,12 @@ svg#bigTriangleColor {
     margin: 0;
     padding: 0;
     padding-bottom: 0.5rem
+}
+
+.footer .footer-bottom img {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 0
 }
 
 .footer ul.footer-links {
