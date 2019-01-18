@@ -796,6 +796,7 @@
 }
 
 .navbar-container {
+    max-width: 112.5rem!important;
     position: relative
 }
 
