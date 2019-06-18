@@ -20,3 +20,17 @@
 .mb-md-0, .my-md-0 {
     margin-bottom: 0 !important;
 } }
+
+.w-75 {
+    width: 75% !important;
+}
+.ml-auto, .mx-auto {
+    margin-left: auto !important;
+}
+.mr-auto, .mx-auto {
+    margin-right: auto !important;
+}
+
+.mb-7, .my-7 {
+    margin-bottom: 3rem !important;
+}
