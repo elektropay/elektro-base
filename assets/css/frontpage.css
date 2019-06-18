@@ -1,0 +1,22 @@
+.btn-soft-success {
+    color: #00c9a7;
+    background: rgba(0, 201, 167, 0.1);
+    border-color: transparent;
+}
+
+.btn-icon__inner-bottom-minus {
+    top: 80%;
+}
+
+.btn-icon__inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+@media (min-width: 768px) {
+.mb-md-0, .my-md-0 {
+    margin-bottom: 0 !important;
+} }
