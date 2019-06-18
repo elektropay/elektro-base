@@ -1,7 +1,7 @@
  <footer id="footer" class="footer">
     <div class="footer-top">
         <div class="container container-lg">
-            <div class="row cols-xs-space cols-sm-space cols-md-space">
+            <div class="row cols-xs-space cols-sm-space cols-md-space mt-4">
                 <div class="col-lg-4">
                     <div class="col">
                         <img src="https://res.cloudinary.com/lmj6rf6tz/image/upload/v1496853370/Everpay-small-logo-grey_xhq1zs.png" class="logo-delimiter">
@@ -92,7 +92,7 @@
                           {% if site.facebook_username %}
                             <li>
                                 <a href="https://facebook.com/{{ site.facebook_username }}" class="facebook" target="_blank" data-toggle="tooltip" data-original-title="Facebook">
-                                <span class="icon  icon--facebook"> <i data-feather="facebook" class="c-white mt-2 btn-icon" stroke-width="1"></i> </span>                                   
+                                <span class="icon  icon--facebook"> <i data-feather="facebook" class="c-white mt-2" stroke-width="1"></i> </span>                                   
                                 </a>
                             </li>
           {% endif %}
@@ -100,7 +100,7 @@
          {% if site.twitter_username %}
                             <li>
                                 <a href="https://twitter.com/{{ site.twitter_username }}" class="twitter" target="_blank" data-toggle="tooltip" data-original-title="Twitter">
-        <span class="icon icon--twitter"> <i data-feather="twitter" class="c-white mt-2 btn-icon" stroke-width="1"></i> </span>                                                 
+        <span class="icon icon--twitter"> <i data-feather="twitter" class="c-white mt-2" stroke-width="1"></i> </span>                                                 
                                 </a>
                             </li>
           {% endif %}
@@ -108,7 +108,7 @@
           {% if site.linkedin_username %}
                             <li>
                                 <a href="https://linkedin.com/{{ site.linkedin_username }}" class="linkedin" target="_blank" data-toggle="tooltip" data-original-title="Linkedin">
-                           <span class="icon icon--linkedin"> <i data-feather="linkedin" class="c-white mt-2 btn-icon" stroke-width="1"></i> </span>                                    
+                           <span class="icon icon--linkedin"> <i data-feather="linkedin" class="c-white mt-2" stroke-width="1"></i> </span>                                    
                                 </a>
                             </li>
           {% endif %}
@@ -116,7 +116,7 @@
           {% if site.github_username %}          
                             <li>
                                 <a href="https://github.com/{{ site.github_username }}" class="github" data-no-turbolink="true" target="_blank" data-toggle="tooltip" data-original-title="Github">
-                                <span class="icon icon--github"> <i data-feather="github" class="c-white mt-2 btn-icon" stroke-width="1"></i> </span>                                   
+                                <span class="icon icon--github"> <i data-feather="github" class="c-white mt-2" stroke-width="1"></i> </span>                                   
                               </a>
                             </li>
                          {% endif %}          
@@ -125,12 +125,18 @@
           {% if site.slack_username %}          
                             <li>
                                 <a href="https://{{ site.slack_username }}.slack.com/" class="slack" target="_blank" data-toggle="tooltip" data-status-link-for="everpayapp" title="Visit our status page">
-                                <span class="icon icon--slack"> <i data-feather="slack" class="c-white mt-2 btn-icon" stroke-width="1"></i> </span>                                   
+                                <span class="icon icon--slack"> <i data-feather="slack" class="c-white mt-2" stroke-width="1"></i> </span>                                   
                               </a>
                             </li>
                          {% endif %}   
                          
                      </ul>
+                 </div>
+                      <div class="col">
+                        <h2 class="heading heading-xs mb-1">
+                            Get Our Newsletter
+                        </h2>
+                     <a href="#" class="btn btn-styled btn-lg btn-white btn-outline btn-circle mt-5 mr-3">Subscribe Me</a>                     
                     </div>
                 </div>
             </div>
