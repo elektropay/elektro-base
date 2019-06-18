@@ -22703,10 +22703,7 @@ pre {
     display: block !important;
 } }
 
-.d-none {
-    display: none !important;
-}
-.img-fluid {
+img-fluid {
     max-width: 100%;
     height: auto;
 }
