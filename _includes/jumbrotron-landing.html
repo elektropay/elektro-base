@@ -1,5 +1,5 @@
 <!-- Hero Section -->
-<section class="js-container background-image-holder">
+<section class="hidden js-container background-image-holder">
 <div class="gradient-overlay-half-primary-video-v1 bg-img-hero" style="background-image: url(https://res.cloudinary.com/lmj6rf6tz/image/upload/v1508308251/payment-terminal_ffzrvq.jpg);">
       <!-- Video Background -->
       <div class="js-bg-video d-none d-md-block position-absolute w-100 h-100"
@@ -112,13 +112,67 @@
                                         <div class="container container-lg slice--offset-top d-flex align-items-center mt-5">
                                             <div class="col px-0 mt-5">
                                                 <div class="row cols-xs-space cols-sm-space cols-md-space mt-5">
-                                                    <div class="col-lg-7 text-center text-lg-left align-self-center">
+                                                    <div class="col-md-10 text-center text-lg-center align-self-center">
                                                         <h2 class="heading heading-xl strong-600 text-normal line-height-1_2 animated mt-3" data-animation-in="fadeInDownBig" data-animation-delay="200">
                                                            Secure And Scale Your Business With Everpay
                                                         </h2>
                                                         <p class="lead animated mt-4" data-animation-in="fadeInUpBig" data-animation-delay="200">
                                                             Everpay is an open payments company, focusing on simplifying payments and unifing big commerce under one single secure source.
                                                         </p>
+                                                           <!-- Form -->
+                <form class="js-validate">
+                  <div class="form-row mb-2">
+                    <div class="col-sm-6 col-lg mb-2">
+                      <div class="js-form-message">
+                        <label class="sr-only" for="signupSrName">Name</label>
+                        <div class="input-group input-group-borderless">
+                          <input type="text" class="form-control" name="name" id="signupSrName" placeholder="Name" aria-label="Name" required
+                                 data-msg="Name must contain only letters.">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-sm-6 col-lg mb-2">
+                      <div class="js-form-message">
+                        <label class="sr-only" for="signupSrPhone">Phone</label>
+                        <div class="input-group input-group-borderless">
+                          <input type="tel" class="form-control" name="phone" id="signupSrPhone" placeholder="Phone" aria-label="Phone" required
+                                 data-msg="Phone number must contain only digits.">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-sm-6 col-lg mb-2">
+                      <div class="js-form-message">
+                        <label class="sr-only" for="signupSrEmail">Email</label>
+                        <div class="input-group input-group-borderless">
+                          <input type="email" class="form-control" name="email" id="signupSrEmail" placeholder="Email" aria-label="Email" required
+                                 data-msg="Please enter a valid email address.">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-sm-6 col-lg mb-2">
+                      <button type="submit" class="btn btn-block btn-white transition-3d-hover">Get Started</button>
+                    </div>
+                  </div>
+
+                  <!-- Checkbox -->
+                  <div class="js-form-message">
+                    <div class="custom-control custom-checkbox text-muted">
+                      <input type="checkbox" class="custom-control-input" id="termsCheckbox" name="termsCheckbox" required
+                             data-msg="Please accept our Terms and Conditions.">
+                      <label class="custom-control-label text-white" for="termsCheckbox">
+                        <small>
+                          * By clicking "Get Started", I agree to the
+                          <a class="link-white" href="/terms.html">Terms and Conditions</a>
+                        </small>
+                      </label>
+                    </div>
+                  </div>
+                  <!-- End Checkbox -->
+                </form>
+                <!-- End Form -->
 
                                                         <a href="#" target="_blank" class="btn btn-styled btn-lg btn-white btn-circle btn-outline mt-5 animated" data-animation-in="fadeInUpBig" data-animation-delay="1000" data-scroll-to="#sct_what_we_do">
                                                             See what we do
